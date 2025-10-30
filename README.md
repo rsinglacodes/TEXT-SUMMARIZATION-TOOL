@@ -39,3 +39,7 @@ Usage
 Run the tool.
 Paste your text into the input area.
 Get a concise summary instantly.
+
+# OUTPUT
+
+<img width="1041" height="963" alt="Image" src="https://github.com/user-attachments/assets/7c94f3d8-9a58-4ac3-8ec2-b5c4be7fc4cc" />
