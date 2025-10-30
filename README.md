@@ -28,12 +28,6 @@ NLP libraries (like nltk, spacy, or gensim)
 
 Optional: Flask/Django for web interface
 
-Installation
-git clone <repo-url>
-cd text-summarization-tool
-pip install -r requirements.txt
-python main.py
-
 Usage
 
 Run the tool.
